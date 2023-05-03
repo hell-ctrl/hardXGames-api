@@ -5,7 +5,7 @@ Um dia vendo no facebook pessoas vendendo contas de diversos jogos, eu decidi cr
 ## Trilha de desenvolvimento :rocket:
 
 - [x] dia 1 - criar o repositório no github.
-- [ ] dia 2 - fazer conexão com o mongodb atlas.
+- [ ] dia 2 - fazer conexão com o MongoDB atlas.
 - [ ] dia 3 - criar a funcionalidade de signup/signin.
 - [ ] dia 4 - criar a funcionalidade de edição e exclusão de usuários.
 - [ ] dia 5 - criar a funcionalidade para o usuário criar um post.
