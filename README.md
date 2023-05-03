@@ -12,7 +12,7 @@ Um dia vendo no facebook pessoas vendendo contas de diversos jogos, eu decidi cr
 
 - [ ] passo 4 - criar a funcionalidade de edição e exclusão de usuários.
 
-- [ ] passp 5 - criar a funcionalidade para o usuário criar um post.
+- [ ] passo 5 - criar a funcionalidade para o usuário criar um post.
 
 - [ ] passo 6 - criar a funcionalidade para o dono do post editar ou excluír seu post.
 
