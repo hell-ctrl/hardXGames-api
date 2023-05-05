@@ -18,7 +18,7 @@ Um dia vendo no facebook pessoas vendendo contas de diversos jogos, eu decidi cr
 
 - [ ] passo 7 - criar a funcionalidade de comentar e curtir um post.
 
-- [ ] passo 8 - criar a funcionalidade de buscar posts por nome do jogo.
+- [ ] passo 8 - criar a funcionalidade de buscar posts por título.
 
 - [ ] passo 9 - criar a funcionalidade de filtrar posts por nome do jogo.
 
