@@ -4,9 +4,7 @@ import signin from "../controllers/auth/signin.js";
 
 const authRouter = Router();
 
-authRouter.get("/", (req, res) => {
-    res.send("oi")
-})
+authRouter.get("/");
 authRouter.post("/signup", signup);
 authRouter.post("/signin", signin);
 
